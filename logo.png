@@ -1,0 +1,13 @@
+# 🩺 Smart Health Monitoring & Risk Prediction System
+
+## 🎯 Project Overview
+*CSE Final Year Project* - IoT-based real-time health monitoring using ML classification (Logistic Regression + Decision Tree).
+
+*Student Deliverables:*
+- ✅ ML Models (95%+ accuracy)
+- ✅ FastAPI Risk Prediction API
+- ✅ 3D Interactive Dashboard (Streamlit + PyVista)
+- ✅ Real-time IoT Data Simulation
+- ✅ National Health Portal Integration
+
+## 🛠 Tech Stack
